@@ -21,7 +21,10 @@ abstract: The abstract of the paper
 categories: Categories / tags in the ArXiv system  
 versions: A version history  
 
+The number of entries is over 1.7 million.
+So I used the part of it here.
 
+### Categories 
 
 ## Notebooks
 The notebooks are from kaggle notebook.
@@ -29,6 +32,12 @@ The notebooks are from kaggle notebook.
 [Category trend](https://github.com/tomokr/arxiv/blob/master/notebooks/1-tomokr-arxiv-categories-trend.ipynb) ... Analyzing categories trend  
 [Abstract to category](https://github.com/tomokr/arxiv/blob/master/notebooks/2-tomokr-arxiv-abstract-nlp.ipynb)...Predicting category from the abstract using spaCy  
 [Title to category](https://github.com/tomokr/arxiv/blob/master/notebooks/3-tomokr-arxiv-title-nlp-tensorflow.ipynb)...Predicting category from the title using TensorFlow  
+
+## Category trend
+
+
+## Future works
+- Dask : to handle the entire dataset
 
 
 Project Organization
