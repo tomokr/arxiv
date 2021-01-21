@@ -3,6 +3,23 @@ arXiv
 
 arXiv metadata analysis project
 
+## Dataset
+The dataset is from Kaggle.
+https://www.kaggle.com/Cornell-University/arxiv
+
+arXiv is the pre-print server. Pre-print means the paper before published to a scientific journal. Scientists are also upload their papers to arXiv.
+The papers on arXiv aren't peer-reviewed, so we can read the paper as soon as it published and free.
+
+### Data structure
+
+## Notebooks
+The notebooks are from kaggle notebook.
+
+[Category trend](https://github.com/tomokr/arxiv/blob/master/notebooks/1-tomokr-arxiv-categories-trend.ipynb) ... Analyzing categories trend
+[Abstract to category](https://github.com/tomokr/arxiv/blob/master/notebooks/2-tomokr-arxiv-abstract-nlp.ipynb)...Predicting category from the abstract using spaCy
+[Title to category](https://github.com/tomokr/arxiv/blob/master/notebooks/3-tomokr-arxiv-title-nlp-tensorflow.ipynb)...Predicting category from the title using TensorFlow
+
+
 Project Organization
 ------------
 
